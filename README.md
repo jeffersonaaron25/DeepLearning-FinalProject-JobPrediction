@@ -15,6 +15,7 @@ README.md: The main documentation file providing an overview of the project and 
 
 # Contributors
 Jacob Fishman
+
 Jefferson Aaron
 
 # License
