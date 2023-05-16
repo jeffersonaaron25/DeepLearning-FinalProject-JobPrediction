@@ -3,10 +3,15 @@ This repository contains the code and resources for the project "Predicting Care
 
 # Repository Structure
 dataset/: Contains the dataset used for training the model.
+
 src/data-extraction/: Includes scripts for data extraction and manipulation
+
 src/data-preprocessing/: Includes scripts for data preprocessing, cleaning, and feature extraction.
+
 notebooks/: Includes google colab notebook files which contains the source code for the neural network and training
+
 README.md: The main documentation file providing an overview of the project and instructions for usage.
+
 
 # Contributors
 Jacob Fishman
